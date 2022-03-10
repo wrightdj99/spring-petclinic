@@ -21,6 +21,9 @@ THIS IS FOR HW 8:
 6. Docker-compose.yml: https://github.com/wrightdj99/spring-petclinic/blob/master/docker-compose.yml
 7. application-mysql.properties https://github.com/wrightdj99/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 8. ![pasted image 0 (6)](https://user-images.githubusercontent.com/60994655/157763281-d18838c2-e472-44f9-b364-029d535ea4a2.png)
+9. ![image](https://user-images.githubusercontent.com/60994655/157763589-6f748e25-3f3a-4a38-ba64-b4574bb69d17.png)
+10.![image](https://user-images.githubusercontent.com/60994655/157763627-bffe9164-992d-4eb3-8a9f-7af8a63d63a7.png)
+
 
 
 
