@@ -14,4 +14,6 @@ HERE ARE THE IMAGES FOR THE SUBMISSION:
 THIS IS FOR HW 8:
 
 1. <a href="https://github.com/wrightdj99/spring-petclinic/blob/master/Dockerfile">Link to my Dockerfile</a>
-2. Running Docker instance: 
+2. Vet page: ![pasted image 0 (2)](https://user-images.githubusercontent.com/60994655/157760923-5e8266fe-045e-4802-bc29-3b7a31b9b803.png)
+3. Docker Compose Up with localhost in sql: ![pasted image 0 (3)](https://user-images.githubusercontent.com/60994655/157760996-1611c071-a512-4fa6-96ff-4fa9e99673b0.png)
+
