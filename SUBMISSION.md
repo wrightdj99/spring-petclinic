@@ -10,3 +10,8 @@ HERE ARE THE IMAGES FOR THE SUBMISSION:
 8. Fixed build status on the README: <img width="731" alt="image" src="https://user-images.githubusercontent.com/60994655/155851363-8cb0bbd1-e1cd-43e4-b414-8eb56b99cfaa.png">
 9. Actions page showing the fixed build after the pom file was put back to normal: <img width="852" alt="image" src="https://user-images.githubusercontent.com/60994655/155851385-707ff108-eb91-483a-a6a1-11aa70ec8241.png">
 10. This is the README after those pom changes were fixed: <img width="679" alt="image" src="https://user-images.githubusercontent.com/60994655/155851408-2ebc47a5-cf9d-4ef4-af23-3b09b3a2c7ba.png">
+
+THIS IS FOR HW 8:
+
+1. <a href="https://github.com/wrightdj99/spring-petclinic/blob/master/Dockerfile">Link to my Dockerfile</a>
+2. Running Docker instance: 
