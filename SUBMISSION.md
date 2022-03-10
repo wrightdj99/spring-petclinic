@@ -16,4 +16,7 @@ THIS IS FOR HW 8:
 1. <a href="https://github.com/wrightdj99/spring-petclinic/blob/master/Dockerfile">Link to my Dockerfile</a>
 2. Vet page: ![pasted image 0 (2)](https://user-images.githubusercontent.com/60994655/157760923-5e8266fe-045e-4802-bc29-3b7a31b9b803.png)
 3. Docker Compose Up with localhost in sql: ![pasted image 0 (3)](https://user-images.githubusercontent.com/60994655/157760996-1611c071-a512-4fa6-96ff-4fa9e99673b0.png)
+4. ![pasted image 0 (4)](https://user-images.githubusercontent.com/60994655/157761356-6d1b5d9b-06ba-45bb-801f-214dfad7d118.png)
+5. Second Access of Vets Page: ![pasted image 0 (5)](https://user-images.githubusercontent.com/60994655/157761537-85b22c25-9af8-4e9e-a0ad-585139c725b0.png)
+
 
