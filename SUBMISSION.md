@@ -18,5 +18,9 @@ THIS IS FOR HW 8:
 3. Docker Compose Up with localhost in sql: ![pasted image 0 (3)](https://user-images.githubusercontent.com/60994655/157760996-1611c071-a512-4fa6-96ff-4fa9e99673b0.png)
 4. ![pasted image 0 (4)](https://user-images.githubusercontent.com/60994655/157761356-6d1b5d9b-06ba-45bb-801f-214dfad7d118.png)
 5. Second Access of Vets Page: ![pasted image 0 (5)](https://user-images.githubusercontent.com/60994655/157761537-85b22c25-9af8-4e9e-a0ad-585139c725b0.png)
+6. Docker-compose.yml: https://github.com/wrightdj99/spring-petclinic/blob/master/docker-compose.yml
+7. application-mysql.properties https://github.com/wrightdj99/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
+8. ![pasted image 0 (6)](https://user-images.githubusercontent.com/60994655/157763281-d18838c2-e472-44f9-b364-029d535ea4a2.png)
+
 
 
